@@ -4,6 +4,7 @@ Mass Creation of USB drives, or Append files to bulk amount of USB devices
 WARNING THIS PROGRAM IS DESTRUCTIVE TO DATA. IT WILL WIPE YOUR STORAGE DEVICES UNDER 64Gb
 =========================================================================================
 
+- Greg Lehto
 - Cody Greenwell
 - firerkacker50@gmail.com
 
