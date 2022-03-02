@@ -5,7 +5,7 @@ WARNING THIS PROGRAM IS DESTRUCTIVE TO DATA. IT WILL WIPE YOUR STORAGE DEVICES U
 =========================================================================================
 
 - Cody Greenwell
-- cgreenwe@ford.com
+- firerkacker50@gmail.com
 
 
 This is a windows program to format, name and load removable drives.
